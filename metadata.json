@@ -1,0 +1,7 @@
+{
+  "name": "Travel Planner",
+  "description": "An intelligent, AI-powered travel assistant that combines conversational planning with structured itinerary generation, featuring real-time map and search grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
